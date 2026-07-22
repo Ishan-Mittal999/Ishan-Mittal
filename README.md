@@ -1,11 +1,11 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ishan Mittal
+<h1 align="center">Hi 👋, I'm Ishan Mittal</h1>
 
 <h3 align="center">
-🚀 Cybersecurity Enthusiast | Founder | Full Stack Developer | Competitive Programmer
+Cybersecurity Enthusiast • AI Explorer • Competitive Programmer • Networking Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=650&lines=Cybersecurity+Enthusiast;Founder+of+ServiceGo;React+%7C+TypeScript+Developer;Competitive+Programmer;Learning+Offensive+Security+Everyday"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Cybersecurity+Enthusiast;Competitive+Programmer;AI+Explorer;Linux+Power+User;Penetration+Testing;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -14,96 +14,93 @@
 
 🎓 B.Tech CSE Student @ ABES Engineering College
 
-🔐 Passionate about Cybersecurity, Ethical Hacking and Networking
+🔐 Passionate about Cybersecurity, Networking & Ethical Hacking
 
-💻 Competitive Programmer
+💻 Solving Data Structures & Algorithms every day
 
-🚀 Founder of ServiceGo
+🤖 Exploring AI Agents, LLMs and AI Automation
 
-🧠 Building AI + Security based products
+🐧 Linux Enthusiast
+
+⚡ Learning Offensive Security & Web Application Security
 
 🥊 District Bronze Medalist (Boxing)
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Currently Working On
 
-- DSA & Competitive Programming
-- Penetration Testing
-- Web Security
-- React + TypeScript
-- Networking
-- Building Startups
-
----
-
-# ⚡ Tech Stack
-
-## Languages
-
-C++
-
-Python
-
-SQL
-
-Bash
-
-TypeScript
-
-JavaScript
+- 🔐 Web Application Security
+- 🌐 Network Security
+- 🧠 AI Agents & LLM Applications
+- 📚 Data Structures & Algorithms
+- ⚔️ CTF Challenges
+- 🐧 Linux Automation
+- 🔍 Bug Hunting & Reconnaissance
 
 ---
 
-## Frontend
+# 💻 Tech Stack
 
-React
+### Languages
 
-Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,sql,bash"/>
+</p>
 
-Vite
+### Cybersecurity
 
-HTML
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali"/>
+</p>
 
-CSS
-
----
-
-## Cybersecurity
-
-Kali Linux
-
-Burp Suite
-
-Metasploit
-
-Nmap
-
-Nikto
-
-Wireshark
-
-Aircrack-ng
-
-OWASP
-
-TCP/IP
-
-Reconnaissance
+Burp Suite • Wireshark • Nmap • Metasploit • Nikto • Aircrack-ng • OWASP • TCP/IP • Reconnaissance • Postman
 
 ---
 
-## Developer Tools
+### AI & LLMs
 
-Git
+<p>
 
-GitHub
+🤖 ChatGPT
 
-VS Code
+✨ Google Gemini
 
-Postman
+🧠 Claude
 
-Linux
+🚀 Google AI Studio
+
+🦙 Ollama
+
+⚡ OpenRouter
+
+🧩 LangChain
+
+🛠️ CrewAI
+
+🤝 AutoGen
+
+🕸️ n8n
+
+🦜 LangGraph
+
+🧠 Hugging Face
+
+🔍 Perplexity AI
+
+💡 GitHub Copilot
+
+⚙️ Continue.dev
+
+</p>
+
+---
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
 
 ---
 
@@ -111,7 +108,7 @@ Linux
 
 ## 🧠 Think_DSA
 
-AI-powered platform helping students master Data Structures & Algorithms through interactive learning.
+An AI-powered Data Structures & Algorithms learning platform designed to help students master problem-solving through interactive learning experiences.
 
 ### Tech
 
@@ -121,49 +118,56 @@ AI-powered platform helping students master Data Structures & Algorithms through
 
 ---
 
-## 🔥 ServiceGo
+## 🌍 ServiceGo
 
-Founder & Lead Developer
-
-Marketplace connecting users with verified local service professionals.
+A live service marketplace platform connecting users with verified local service professionals.
 
 ### Features
 
-- Authentication
-- Vendor Profiles
+- Secure Authentication
+- Vendor Management
 - SQL Database
-- Responsive UI
-- Tailwind CSS
+- Responsive Interface
+- Optimized Performance
+- Modern UI
+
+### Tech
+
+React • TypeScript • Tailwind CSS • SQL
 
 ---
 
-# 🏆 Achievements
-
-🥇 Innotech'25 Qualifier (KIET)
-
-🏆 Ideathon'25 Round 4 (Top 60)
-
-🥊 District Bronze Medalist (Boxing)
-
----
-
-# 📈 Competitive Programming
-
-💛 LeetCode
-
-🟤 CodeChef
-
-Always improving problem-solving skills through daily practice.
-
----
-
-# 📊 GitHub Stats
+# 🏆 Competitive Programming
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishan-Mittal999&show_icons=true&theme=tokyonight"/>
+<a href="https://leetcode.com/u/Ishan999/">
+<img src="https://img.shields.io/badge/LeetCode-Ishan999-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Mittal999&theme=tokyonight"/>
+<a href="https://www.codechef.com/users/ishanmittal85">
+<img src="https://img.shields.io/badge/CodeChef-ishanmittal85-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://codeforces.com/profile/xoding1_1">
+<img src="https://img.shields.io/badge/Codeforces-xoding1__1-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishan-Mittal999&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Mittal999&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Mittal999&layout=compact&theme=tokyonight"/>
 
@@ -171,20 +175,75 @@ Always improving problem-solving skills through daily practice.
 
 ---
 
-# 🌐 Connect With Me
+# 🛠️ Cybersecurity Arsenal
 
-💼 LinkedIn
+- Kali Linux
+- Burp Suite
+- Wireshark
+- Nmap
+- Metasploit
+- Nikto
+- Aircrack-ng
+- OWASP Top 10
+- TCP/IP
+- Bash Scripting
+- Linux
+- Reconnaissance
 
-💻 LeetCode
+---
 
-🏆 CodeChef
+# 🏅 Achievements
 
-📧 Email
+🏆 KIET Innotech'25 Qualifier
+
+🏆 IIIT Delhi Ideathon'25 (Top 60)
+
+🥉 District Bronze Medalist (Boxing)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**ishanmittal854@gmail.com**
+
+📱 **Phone**
+
+**+91 6387236803**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/ishan-mittal999/
+
+💻 **GitHub**
+
+https://github.com/Ishan-Mittal999
+
+🧡 **LeetCode**
+
+https://leetcode.com/u/Ishan999/
+
+🤎 **CodeChef**
+
+https://www.codechef.com/users/ishanmittal85
+
+💙 **Codeforces**
+
+https://codeforces.com/profile/xoding1_1
 
 ---
 
 <p align="center">
 
-⭐ "Building secure systems, solving complex problems, and turning ideas into products."
+<img src="https://komarev.com/ghpvc/?username=Ishan-Mittal999&style=for-the-badge"/>
 
 </p>
+
+---
+
+<h3 align="center">
+
+⚡ "Learning Never Stops. Break. Build. Secure. Repeat."
+
+</h3>
