@@ -74,23 +74,15 @@ Burp Suite • Wireshark • Nmap • Metasploit • Nikto • Aircrack-ng • O
 
 ⚡ OpenRouter
 
-🧩 LangChain
-
 🛠️ CrewAI
 
-🤝 AutoGen
-
 🕸️ n8n
-
-🦜 LangGraph
 
 🧠 Hugging Face
 
 🔍 Perplexity AI
 
 💡 GitHub Copilot
-
-⚙️ Continue.dev
 
 </p>
 
@@ -219,18 +211,6 @@ https://www.linkedin.com/in/ishan-mittal999/
 💻 **GitHub**
 
 https://github.com/Ishan-Mittal999
-
-🧡 **LeetCode**
-
-https://leetcode.com/u/Ishan999/
-
-🤎 **CodeChef**
-
-https://www.codechef.com/users/ishanmittal85
-
-💙 **Codeforces**
-
-https://codeforces.com/profile/xoding1_1
 
 ---
 
