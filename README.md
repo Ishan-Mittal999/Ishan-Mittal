@@ -1,137 +1,100 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ishan Mittal</h1>
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%"/>
+<h3 align="center">
+Cybersecurity Enthusiast • AI Explorer • Competitive Programmer • Networking Learner
+</h3>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ishan Mittal
-
-### 🔐 Cybersecurity Enthusiast • 🤖 AI Explorer • 💻 Competitive Programmer • 🐧 Linux Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Ethical+Hacker;AI+Explorer;Competitive+Programmer;Linux+Power+User;CTF+Player;Always+Learning+Something+New..." />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishan%20Mittal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishan-mittal999/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ishan999-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Ishan999/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-ishanmittal85-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/ishanmittal85)
-[![Codeforces](https://img.shields.io/badge/Codeforces-xoding1__1-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/xoding1_1)
-
-![](https://komarev.com/ghpvc/?username=Ishan-Mittal999&style=for-the-badge&color=blueviolet)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Cybersecurity+Enthusiast;Competitive+Programmer;AI+Explorer;Linux+Power+User;Penetration+Testing;Always+Learning+Something+New" />
+</p>
 
 ---
 
 # 💫 About Me
 
-```yaml
-Name: Ishan Mittal
+🎓 B.Tech CSE Student @ ABES Engineering College
 
-Education:
-  B.Tech CSE
-  ABES Engineering College
+🔐 Passionate about Cybersecurity, Networking & Ethical Hacking
 
-Interests:
-  - Cybersecurity
-  - Penetration Testing
-  - AI Agents
-  - Networking
-  - Linux
-  - Competitive Programming
-  - CTF Challenges
+💻 Solving Data Structures & Algorithms every day
 
-Currently Learning:
-  - Web Application Security
-  - Bug Hunting
-  - AI Automation
-  - Advanced Networking
-```
+🤖 Exploring AI Agents, LLMs and AI Automation
+
+🐧 Linux Enthusiast
+
+⚡ Learning Offensive Security & Web Application Security
+
+🥊 District Bronze Medalist (Boxing)
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Currently Working On
 
-- 🔐 Ethical Hacking
+- 🔐 Web Application Security
 - 🌐 Network Security
-- ⚔️ CTF Challenges
-- 🤖 AI Agents
+- 🧠 AI Agents & LLM Applications
 - 📚 Data Structures & Algorithms
+- ⚔️ CTF Challenges
 - 🐧 Linux Automation
-- 🔍 Bug Hunting
-- ☁️ Cloud Security
+- 🔍 Bug Hunting & Reconnaissance
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-## Programming Languages
+### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,sql,bash"/>
+</p>
+
+### Cybersecurity
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali"/>
+</p>
+
+Burp Suite • Wireshark • Nmap • Metasploit • Nikto • Aircrack-ng • OWASP • TCP/IP • Reconnaissance • Postman
+
+---
+
+### AI & LLMs
+
+<p>
+
+🤖 ChatGPT
+
+✨ Google Gemini
+
+🧠 Claude
+
+🚀 Google AI Studio
+
+🦙 Ollama
+
+⚡ OpenRouter
+
+🛠️ CrewAI
+
+🤝 AutoGen
+
+🕸️ n8n
+
+🧠 Hugging Face
+
+🔍 Perplexity AI
+
+💡 GitHub Copilot
 
 </p>
 
 ---
 
-## Operating Systems & Tools
+### Developer Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
-
----
-
-## Cybersecurity Arsenal
-
-<p>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nikto-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Aircrack--ng-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🤖 AI Tools & AI Agents
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-</p>
-
-- ChatGPT
-- Google Gemini
-- Claude
-- Google AI Studio
-- GitHub Copilot
-- Ollama
-- Hugging Face
-- LangChain
-- LangGraph
-- CrewAI
-- AutoGen
-- OpenRouter
-- n8n
-- Perplexity AI
-- Continue.dev
-- LM Studio
-- Open WebUI
 
 ---
 
@@ -139,7 +102,7 @@ Currently Learning:
 
 ## 🧠 Think_DSA
 
-> AI-powered learning platform that helps students master Data Structures & Algorithms using interactive learning experiences.
+An AI-powered Data Structures & Algorithms learning platform designed to help students master problem-solving through interactive learning experiences.
 
 ### Tech
 
@@ -151,88 +114,81 @@ Currently Learning:
 
 ## 🌍 ServiceGo
 
-> Live service marketplace connecting customers with verified local service professionals.
+A live service marketplace platform connecting users with verified local service professionals.
 
 ### Features
 
-- User Authentication
-- Vendor Dashboard
+- Secure Authentication
+- Vendor Management
 - SQL Database
-- Responsive UI
-- Secure Data Management
+- Responsive Interface
+- Optimized Performance
+- Modern UI
 
 ### Tech
 
-- React
-- TypeScript
-- Tailwind CSS
-- SQL
+React • TypeScript • Tailwind CSS • SQL
 
 ---
 
 # 🏆 Competitive Programming
 
-<div align="center">
+<p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Ishan999?theme=dark&font=JetBrains%20Mono&ext=contest" />
+<a href="https://leetcode.com/u/Ishan999/">
+<img src="https://img.shields.io/badge/LeetCode-Ishan999-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-</div>
+<a href="https://www.codechef.com/users/ishanmittal85">
+<img src="https://img.shields.io/badge/CodeChef-ishanmittal85-brown?style=for-the-badge&logo=codechef"/>
+</a>
 
----
+<a href="https://codeforces.com/profile/xoding1_1">
+<img src="https://img.shields.io/badge/Codeforces-xoding1__1-blue?style=for-the-badge&logo=codeforces"/>
+</a>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishan-Mittal999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Ishan-Mittal999&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Mittal999&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ishan-Mittal999&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishan-Mittal999&show_icons=true&theme=tokyonight"/>
 
-</div>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Mittal999&theme=tokyonight"/>
 
----
+</p>
 
-# 📈 Contribution Graph
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Mittal999&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan-Mittal999&theme=tokyo-night"/>
-
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🛠️ Cybersecurity Arsenal
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ishan-Mittal999/Ishan-Mittal999/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** The snake won't appear until you create the GitHub Action that generates it.
+- Kali Linux
+- Burp Suite
+- Wireshark
+- Nmap
+- Metasploit
+- Nikto
+- Aircrack-ng
+- OWASP Top 10
+- TCP/IP
+- Bash Scripting
+- Linux
+- Reconnaissance
 
 ---
 
 # 🏅 Achievements
 
-🥇 KIET Innotech'25 Qualifier
+🏆 KIET Innotech'25 Qualifier
 
 🏆 IIIT Delhi Ideathon'25 (Top 60)
 
@@ -244,40 +200,32 @@ Currently Learning:
 
 📧 **Email**
 
-ishanmittal854@gmail.com
+**ishanmittal854@gmail.com**
 
 📱 **Phone**
 
-+91 6387236803
+**+91 6387236803**
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/ishan-mittal999/
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/Ishan-Mittal999
 
-🧡 LeetCode
+---
 
-https://leetcode.com/u/Ishan999/
+<p align="center">
 
-🤎 CodeChef
+<img src="https://komarev.com/ghpvc/?username=Ishan-Mittal999&style=for-the-badge"/>
 
-https://www.codechef.com/users/ishanmittal85
-
-💙 Codeforces
-
-https://codeforces.com/profile/xoding1_1
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">
 
-## 💻 Motto
+⚡ "Learning Never Stops. Break. Build. Secure. Repeat."
 
-> **"Break. Learn. Build. Secure. Repeat."**
-
-⭐ Thanks for visiting my profile!
-
-</div>
+</h3>
